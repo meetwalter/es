@@ -1,0 +1,3 @@
+FROM elasticsearch:2.3.1
+MAINTAINER Michael Williams
+ENV REFRESHED_AT 2016-04-18
