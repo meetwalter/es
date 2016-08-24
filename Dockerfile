@@ -1,3 +1,3 @@
-FROM elasticsearch:2.3.1
+FROM elasticsearch:2.3.5
 MAINTAINER Michael Williams
-ENV REFRESHED_AT 2016-04-18
+ENV REFRESHED_AT 2016-08-24
