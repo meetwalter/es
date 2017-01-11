@@ -1,3 +1,3 @@
-FROM elasticsearch:2.3.5
+FROM elasticsearch:5.1.1-alpine
 MAINTAINER Michael Williams
-ENV REFRESHED_AT 2016-08-24
+ENV REFRESHED_AT 2017-01-11
